@@ -18,4 +18,5 @@ function okay(a) {
 	return aa;
 }
 
-okay(a);
+// okay(a);
+module.exports = okay
